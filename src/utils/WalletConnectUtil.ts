@@ -16,7 +16,7 @@ export async function createWeb3Wallet(relayerRegionURL: string) {
     metadata: {
       name: 'React Web3Wallet',
       description: 'React Web3Wallet for WalletConnect',
-      url: 'https://walletconnect.com/',
+      url: 'https://cool-fox-518bff.netlify.app/',
       icons: ['https://avatars.githubusercontent.com/u/37784886']
     }
   })
