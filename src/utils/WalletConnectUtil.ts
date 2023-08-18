@@ -14,10 +14,10 @@ export async function createWeb3Wallet(relayerRegionURL: string) {
   web3wallet = await Web3Wallet.init({
     core,
     metadata: {
-      name: 'React Web3Wallet',
-      description: 'React Web3Wallet for WalletConnect',
+      name: 'Eniblock Wallet',
+      description: 'Cutting edge MPC-Wallet',
       url: 'https://cool-fox-518bff.netlify.app/',
-      icons: ['https://avatars.githubusercontent.com/u/37784886']
+      icons: ['https://imgur.com/a/1tcCyH1']
     }
   })
 }
